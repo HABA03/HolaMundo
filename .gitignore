@@ -181,3 +181,5 @@ UpgradeLog*.htm
 
 # Microsoft Fakes
 FakesAssemblies/
+/holamundo1/.vs/holamundo1/FileContentIndex/79875c4f-54fe-407b-97a1-bd41b939cd4e.vsidx
+/holamundo1/.vs/holamundo1/v17/DocumentLayout.json
